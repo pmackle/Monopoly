@@ -25,7 +25,7 @@ Space.cpp - Another monolith of code. The actual spaces on the board. All proper
 # Authors
 * [Patrick Mackle](https://github.com/pmackle) - *Developer*
 
-* [Dhruva Eswar]() - *Developer*
+* [Dhruva Eswar](https://github.com/dhruvaeswar) - *Developer*
 
 # Acknowledgments
 Matt Butner for all that C++ teaching. Youtube and stack overflow for everytime we got a segment fault and prayed someone else has had a similiar problem.
