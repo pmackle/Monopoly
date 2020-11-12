@@ -8,7 +8,7 @@ DiceRoller.cpp - As the name implies.
 
 Gamestate.cpp - Operates like a finite state machine. Helps organize.
 
-Go.cpp - For passing go or landing on a space, really wishing we had more damn comments here. Rookie mistake for a first big project.
+Go.cpp - For passing go or landing on a space. I have retroactively tried to add comments 3 years later but am unable to decipher a lot of it. Rookie mistake for a first big project.
 
 main.cpp - Self explanatory. Takes in textfile of rules/properties.
 
