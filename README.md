@@ -1,6 +1,5 @@
 # Monopoly
-Text-based multiplayer monopoly game written from January - March 2018 for ECS 40 (Now known as ECS 36B). Includes adjustable boards, rules, and more.
-
+Text-based multiplayer monopoly game written from January - March 2018 for ECS 40 (Now known as ECS 36B). Includes adjustable boards, rules, and more by reading in CSV files.
 # Files
 Board.cpp - Reads the board file for hotel cost, rent, type, properties/spaces, etc.
 
